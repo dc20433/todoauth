@@ -6,3 +6,4 @@ Watch more
 1. Open index.html
 2. Add new feature
 3. Add more
+4. Add something right
